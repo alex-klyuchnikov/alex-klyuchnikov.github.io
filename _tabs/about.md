@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Комплиментарный бложек для моего [телеграм канала](https://t.me/klyuchnikov_channel). Что не влезет туда – появляется здесь.

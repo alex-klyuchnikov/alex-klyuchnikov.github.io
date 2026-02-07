@@ -21,7 +21,7 @@ _kgspBootGspRm: (the GPU is likely in a bad state and may need to be reset)
 
 # Решение {#solution} 
 
-Я собрал драйвера NVidia версии 580.105.08 для версии TrueNAS SCALE 25.10.1 и положил их в свой Telegram канал. Если это те драйвера, которые вам нужны, то скачивайте их [отсюда](TODO вставить ссылку на пост в телеге) и переходите к [шагу #4](#drivers-installation).
+Я собрал драйвера NVidia версии 580.105.08 для версии TrueNAS SCALE 25.10.1 и положил их в свой Telegram канал. Если это те драйвера, которые вам нужны, то скачивайте их [отсюда](https://t.me/klyuchnikov_channel/195) и переходите к [шагу #4](#drivers-installation).
 
 Если вам нужны драйвера постарше (для видеокарт 10 серии и младше), то можно посмотреть в [репозитории](https://github.com/zzzhouuu/truenas-nvidia-drivers). 
 
@@ -152,11 +152,11 @@ rmdir ./tmpfile/rootfs
 
 После перезагрузки запускаем `nvidia-smi` и радуемся, если в выводе видим свою видеокарту.
 
-Ссылки, использовавшиеся для вдохновения, с подробностями о том как оно всё работает:
-
-[NVIDIA Kernel Module Change in TrueNAS 25.10 - What This Means for You #105](https://forums.truenas.com/t/nvidia-kernel-module-change-in-truenas-25-10-what-this-means-for-you/51070/105)
+Источники, использовавшиеся для вдохновения, с подробностями о том как оно всё работает:
 
 [TrueNAS Build Nvidia vGPU Driver extensions (systemd-sysext)](https://www.homelabproject.cc/posts/truenas/truenas-build-nvidia-vgpu-driver-extensions-systemd-sysext/)
+
+[NVIDIA Kernel Module Change in TrueNAS 25.10 - What This Means for You #105](https://forums.truenas.com/t/nvidia-kernel-module-change-in-truenas-25-10-what-this-means-for-you/51070/105)
 
 [TrueNAS 25.10 Nvidia GPU Driver](https://github.com/zzzhouuu/truenas-nvidia-drivers/tree/main)
 
