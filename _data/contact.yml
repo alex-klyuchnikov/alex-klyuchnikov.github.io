@@ -1,5 +1,9 @@
 #  The contact options.
 
+- type: telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/klyuchnikov_channel"
+
 - type: github
   icon: "fab fa-github"
 
