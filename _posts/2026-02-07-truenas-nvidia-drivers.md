@@ -21,7 +21,7 @@ _kgspBootGspRm: (the GPU is likely in a bad state and may need to be reset)
 
 # Решение {#solution} 
 
-Я собрал драйвера NVidia версии 580.105.08 для версии TrueNAS SCALE 25.10.1 и положил их в свой Telegram канал. Если это те драйвера, которые вам нужны, то скачивайте их [отсюда](https://t.me/klyuchnikov_channel/195) и переходите к [шагу #4](#drivers-installation).
+Я собрал драйвера NVidia версии 580.105.08 для версии TrueNAS SCALE 25.10.1 и положил их в свой Telegram канал. Если это те драйвера, которые вам нужны, то скачивайте их [отсюда](https://t.me/klyuchnikov_channel/196) и переходите к [шагу #4](#drivers-installation).
 
 Если вам нужны драйвера постарше (для видеокарт 10 серии и младше), то можно посмотреть в [репозитории](https://github.com/zzzhouuu/truenas-nvidia-drivers). 
 
