@@ -160,4 +160,4 @@ rmdir ./tmpfile/rootfs
 
 [TrueNAS 25.10 Nvidia GPU Driver](https://github.com/zzzhouuu/truenas-nvidia-drivers/tree/main)
 
-Ну и подписывайтесь на мой [Телеграм канал](https://t.me/klyuchnikov_channel), конечно же. А комментировать статью можно вот под [этим постом](https://t.me/klyuchnikov_channel/194).
+Ну и подписывайтесь на мой [Телеграм канал](https://t.me/klyuchnikov_channel), конечно же. А комментировать статью можно вот под [этим постом](https://t.me/klyuchnikov_channel/195).
