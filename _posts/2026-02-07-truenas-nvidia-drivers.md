@@ -94,7 +94,7 @@ export PATH=$PATH:/usr/sbin:/sbin
 Выполняем следующие команды:
 
 ```bash
-make checkout
+sudo make checkout
 sudo make packages
 sudo make update
 
@@ -141,7 +141,7 @@ rmdir ./tmpfile/rootfs
 4. Переводим датасет `/usr` в режим только-чтения:
 
     ```bash
-    sudo zfs set readonly=on “$(zfs list -H -o name /usr)”
+    sudo zfs set readonly=on "$(zfs list -H -o name /usr)"
     ```
 
 5. Мержим `systemd-sysext`:
